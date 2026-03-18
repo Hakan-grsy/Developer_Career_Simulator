@@ -6,10 +6,9 @@ React Native ve Expo kullanılarak geliştirilmiş, kaynak yönetimi ve ilerleme
 https://youtube.com/shorts/eZxpawczAFc?feature=share
 
 ## 📦 Oynanabilir APK
-Oyunun test edilebilir APK dosyası repo içerisinde yer almaktadır. İlgili dizine giderek doğrudan cihazınıza indirip kurabilirsiniz:
+Uygulamanın test edilebilir sürümü GitHub Releases üzerinden yayınlanmıştır. Aşağıdaki bağlantıdan doğrudan cihazınıza indirip kurabilirsiniz:
 
-📁 **Dosya Konumu:** `/APK/app-debug.apk`
-*(Not: Bu bir debug sürümüdür. Sorunsuz çalışması için yerel ağınızda Metro Bundler'ın açık olması gerekebilir veya Sorun Giderme adımlarına göz atabilirsiniz).*
+🔗 **İndirme Bağlantısı:** [Developer Career Simulator v1.0.0 APK](https://github.com/Hakan-grsy/Developer_Career_Simulator/releases/latest)
 
 ## ✨ Temel Özellikler
 * **Kariyer İlerlemesi (Progression):** Stajyer seviyesinden başlayıp deneyim (XP) kazanarak Lead Developer ve CTO seviyelerine kadar yükselme.
