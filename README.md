@@ -56,3 +56,15 @@ Projeyi bilgisayarınızda yerel olarak çalıştırmak için şu adımları izl
 5. Geliştirici menüsünü tekrar açıp **Reload** seçeneğine tıklayarak uygulamayı başarıyla başlatabilirsiniz.
 
 *(Alternatif olarak, cihaz bilgisayara USB ile bağlıysa terminalde `adb reverse tcp:8081 tcp:8081` komutunu çalıştırarak köprü kurabilirsiniz).*
+
+## 🧪 Kullanıcı Testi Raporu (User Testing Report)
+
+Proje, rastgele seçilen 3 farklı kullanıcıya test ettirilmiş ve alınan geri bildirimler aşağıda listelenmiştir:
+
+| Katılımcı | Kullanıcı Geri Bildirimleri (Olumlu & Geliştirilebilir) | Puan |
+| :--- | :--- | :---: |
+| **Test Kullanıcısı 1** | **(+)** "Karanlık tema ve arayüz tasarımı çok modern duruyor, karmaşık değil." <br> **(-)** "Oyunun başında para kazanmak biraz yavaş, ilk aşama biraz daha hızlandırılabilir." | ⭐⭐⭐⭐ |
+| **Test Kullanıcısı 2** | **(+)** "Burnout (Tükenmişlik) mekanizması çok yaratıcı, gerçek bir yazılımcı gibi hissettiriyor." <br> **(-)** "Mağazadaki ürünlerin açıklamaları biraz daha detaylı olabilir." | ⭐⭐⭐⭐⭐ |
+| **Test Kullanıcısı 3** | **(+)** "Rastgele gelen etkinlikler (Hackathon vb.) oyuna heyecan katıyor, tekdüzeliği bozuyor." <br> **(-)** "Ses efektleri veya titreşim geri bildirimi eklenirse oyun zevki artabilir." | ⭐⭐⭐⭐ |
+
+**Genel Sonuç:** Testler sonucunda uygulamanın tüm temel fonksiyonlarının (XP kazanma, Seviye atlama, Mağaza ve Etkinlikler) hatasız çalıştığı doğrulanmıştır. Kullanıcılar genel oyun akışını akıcı ve eğlenceli bulmuştur.
